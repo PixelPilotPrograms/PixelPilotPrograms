@@ -40,9 +40,8 @@ repositories: 20
 
 </details>
 
-## Experiments
+## Projects
 
-- **[Cookbook](https://github.com/DishShareLabs/Cookbook)** — CookBook is a full-stack, authenticated family cookbook website backed by MongoDB. It allows family members to securely log in, browse and filter recipes, track favorites, and contribute their own dishes, while featuring a dedicated admin panel for full user and content moderation. · ⭐ 0
 
 ## Compare notes
 
