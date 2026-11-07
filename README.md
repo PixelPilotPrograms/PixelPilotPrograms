@@ -52,4 +52,4 @@ repositories: 20
 
 <a href="https://github.com/pixelpilotprograms">GitHub</a>
 
-<p align="center"><sub>Pixel · Data profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+
